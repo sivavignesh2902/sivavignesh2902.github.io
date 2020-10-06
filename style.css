@@ -1,0 +1,51 @@
+body{
+background-color:orange;
+}
+h3{
+color: blue;
+text-align:center;
+border: 2px dotted brown;
+
+display; inline-block;
+animation: blinking 1.5s linear infinite;
+
+}
+@-webkit-keyframes blinking {
+0% { opacity: 1.0; }
+50% { opacity: 0.0; }
+100% { opacity: 1.0; }
+}
+h1{
+text-align: center;
+color: red;
+
+
+}
+
+.center{
+margin-left:25%;
+border: 2px solid brown;
+}
+#contact{
+margin: auto;
+text-decoration: none;
+display: inline;
+}
+#instagram{
+display: inline;
+text-decoration: none;
+}
+#youtube{
+text-decoration: none;
+display: inline;
+}
+div{
+margin-left: 1000px;
+}
+body{
+background-color: orange;
+background-repeat: no-repeat;
+background-attachment: scroll;
+} 
+
+
